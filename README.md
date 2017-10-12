@@ -4,8 +4,9 @@
 
 **Dr. Matthew Beckman**  
 Asst Professor & Director of Undergraduate Programs  
-Department of Statistics  
+Department of Statistics   
 Penn State University  
+
 <beckman@psu.edu>  
 
 
@@ -99,4 +100,5 @@ Dr. Matthew Beckman
 Asst. Research Professor & Director of Undergraduate Programs  
 Department of Statistics  
 Penn State University  
+
 <beckman@psu.edu>  
