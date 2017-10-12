@@ -30,7 +30,7 @@ Penn State University
 - Frequently listed among top careers in 2017 by 
     - [Glassdoor (Data Scientist #1)](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm)
     - [US News & World Report (Statistician #4)](https://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs)
-    - [CNN Money (Acturay #20; Biostatistian #48)](http://money.cnn.com/pf/best-jobs/2017/list/index.html)
+    - [CNN Money (Actuary #20; Biostatistian #48)](http://money.cnn.com/pf/best-jobs/2017/list/index.html)
     - [CBS News](https://www.cbsnews.com/media/the-best-11-jobs-in-america-for-2017/12/)
     - [CNBC](https://www.cnbc.com/2017/01/23/the-50-best-jobs-in-america-in-2017.html)
     - and lots more...
