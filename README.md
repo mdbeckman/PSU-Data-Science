@@ -24,7 +24,6 @@ Penn State University
 
 ![https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm](DS Jobs.png)
 
-<br>
 
 - Yes! but you should [Google it yourself](http://lmgtfy.com/?q=data+scientist+careers)
 - Frequently listed among top careers in 2017 by 
@@ -41,8 +40,6 @@ Penn State University
 ## Why is it so popular?
 
 ![https://goo.gl/images/w2YmVH](DataKnowledgeAction.png)
-
-<br>
 
 #### ...because Data
 
