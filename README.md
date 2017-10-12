@@ -23,7 +23,7 @@ Penn State University
 ## Are there really jobs in Data Science & Statistics?  
 
 
-![https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm](DS Jobs.png)
+![image access: www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm](DS Jobs.png)
 
 
 - Yes! but you should [Google it yourself](http://lmgtfy.com/?q=data+scientist+careers)
@@ -40,7 +40,7 @@ Penn State University
 
 ## Why is it so popular?
 
-![https://goo.gl/images/w2YmVH](DataKnowledgeAction.png)
+![image access: https://goo.gl/images/w2YmVH](DataKnowledgeAction.png)
 
 #### ...because Data
 
@@ -90,7 +90,7 @@ Penn State University
         - Computational DS
         - Statistical Modeling DS
 
-![https://ist.psu.edu/students/undergrad/majors/ds](PSU-Data-Sciences.png)
+![image access: https://ist.psu.edu/students/undergrad/majors/ds](PSU-Data-Sciences.png)
 
 <br>
 
