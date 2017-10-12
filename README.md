@@ -1,6 +1,21 @@
 # Statistics & Data Science Jobs
 
+<br>
 
+**Dr. Matthew Beckman**  
+Asst Professor & Director of Undergraduate Programs  
+Department of Statistics  
+Penn State University  
+<beckman@psu.edu>  
+
+
+<br>
+
+### Here's a link & QR code for this webpage:
+
+### [https://mdbeckman.github.io/PSU-Data-Science/](https://mdbeckman.github.io/PSU-Data-Science/)
+
+![](qr_code.jpg)
 
 <br>
 
@@ -15,9 +30,10 @@
 - Frequently listed among top careers in 2017 by 
     - [Glassdoor (Data Scientist #1)](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm)
     - [US News & World Report (Statistician #4)](https://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs)
-    - [CBS News (Data Scientist #1)](https://www.cbsnews.com/media/the-best-11-jobs-in-america-for-2017/12/)
+    - [CNN Money (Acturay #20; Biostatistian #48)](http://money.cnn.com/pf/best-jobs/2017/list/index.html)
+    - [CBS News](https://www.cbsnews.com/media/the-best-11-jobs-in-america-for-2017/12/)
     - [CNBC](https://www.cnbc.com/2017/01/23/the-50-best-jobs-in-america-in-2017.html)
-    - and more...
+    - and lots more...
 - It even pays well (but that's not why you should do it--or any other job)
     
 <br>
@@ -28,8 +44,10 @@
 
 <br>
 
-- There's a **ton** of it and [more data will be generated in the next 2 years than the previous 5000 years of humanity!] (https://appdevelopermagazine.com/4773/2016/12/23/more-data-will-be-created-in-2017-than-the-previous-5,000-years-of-humanity-/)
-    - Anyone wondering what kind of data they produced in 2983 BC??
+#### ...because Data
+
+- There's a **ton** of it and [more data will be generated in the next 2 years than the previous 5000 years of humanity](https://appdevelopermagazine.com/4773/2016/12/23/more-data-will-be-created-in-2017-than-the-previous-5,000-years-of-humanity-/)
+    - Anyone wondering what kind of data they produced in 2983 BC?
     - Here's some [3000 BC stuff](https://en.wikipedia.org/wiki/30th_century_BC) just to get our minds around that statement...
         - [City of Troy Founded](https://en.wikipedia.org/wiki/Troy)
         - [They started building Stonehenge](https://en.wikipedia.org/wiki/Stonehenge)
@@ -81,7 +99,7 @@
 ## Contact Info
 
 Dr. Matthew Beckman  
-Director of Undergraduate Programs  
+Asst. Research Professor & Director of Undergraduate Programs  
 Department of Statistics  
 Penn State University  
 <beckman@psu.edu>  
